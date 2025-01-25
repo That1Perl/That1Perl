@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![js-java-script](https://github.com/user-attachments/assets/681d2efd-3a2d-4c53-a4ca-196b24d20827)
 ![cpp-cplusplus](https://github.com/user-attachments/assets/7f5f6b43-b2f2-4add-9860-37c4be29dae9)
+![1ad2f99c-1410-47be-b430-d31d6257ee63](https://github.com/user-attachments/assets/1be02349-ec42-4387-9568-05512956fc80)
 
 
 
