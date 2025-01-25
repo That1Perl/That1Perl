@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=That1Perl&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="Coding" width="400" src="https://tenor.com/ru/view/js-java-script-head-pat-gif-26111677">
+<div class="tenor-gif-embed" data-postid="26111677" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/js-java-script-head-pat-gif-26111677">Js Java Script Sticker</a>from <a href="https://tenor.com/search/js-stickers">Js Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **That1Perl/That1Perl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
