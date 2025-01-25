@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=That1Perl&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![js-java-script](https://github.com/user-attachments/assets/681d2efd-3a2d-4c53-a4ca-196b24d20827)
-![javascript](https://github.com/user-attachments/assets/44c71552-da6b-438b-a04c-537d4e205f3c)
+![cpp-cplusplus](https://github.com/user-attachments/assets/7f5f6b43-b2f2-4add-9860-37c4be29dae9)
+
 
 <!--
 **That1Perl/That1Perl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
